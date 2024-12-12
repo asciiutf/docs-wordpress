@@ -1,0 +1,7 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,700&display=swap');
+
+:root {
+    --md-text-font: 'Inter', sans-serif; 
+} */
+
+h2 { font-weight: 600 !important; }

@@ -1,6 +1,23 @@
-site_name: Dokumentasi WordPress Bahasa Indonesia
+site_name: Dokumentasi Pengembangan WordPress Bahasa Indonesia
 site_url: https://wordpress.asciiutf.com
 theme:
   name: material
   palette:
     primary: black
+  font:
+    text: Inter
+extra_css:
+  - assets/stylesheets/extra.css
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
