@@ -1,0 +1,6 @@
+site_name: Dokumentasi WordPress Bahasa Indonesia
+site_url: https://wordpress.asciiutf.com
+theme:
+  name: material
+  palette:
+    primary: black
