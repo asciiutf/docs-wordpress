@@ -1,8 +1,6 @@
 ---
 title: Beranda
-hide:
-  - navigation
-  - toc
+
 ---
 
 # Dokumentasi Pengembangan WordPress Bahasa Indonesia
