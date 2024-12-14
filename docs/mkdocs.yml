@@ -8,6 +8,10 @@ theme:
     text: Inter
 extra_css:
   - assets/stylesheets/extra.css
+extra:
+  analytics:
+    provider: google
+    property: G-PDN7SKQYZ5
 markdown_extensions:
   - admonition
   - pymdownx.details
